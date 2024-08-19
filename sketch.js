@@ -3,7 +3,7 @@
 
 const APPSYNC_HOST = "afno5ipvkfamfagfok7ad4qnwm.appsync-api.us-west-1.amazonaws.com";
 const APPSYNC_REALTIME_HOST = 'wss://afno5ipvkfamfagfok7ad4qnwm.appsync-realtime-api.us-west-1.amazonaws.com/graphql'
-const APPSYNC_API_KEY = "da2-l3ffosqyfzegrmy43k6hj3auwy";
+const APPSYNC_API_KEY = "da2-b5axtuh2kbd6djkz6c34kyqw2q";
 
 function encodeAppSyncCredentials() {
     const creds = {
